@@ -27,4 +27,4 @@ def function_3():
     print('function_3')
 
 def function_5():
-    print('update')
+    print('update_1')
