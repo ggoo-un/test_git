@@ -22,14 +22,10 @@ print('insert_1')
 print('insert_1')
 print('insert_1')
 
-<<<<<<< Updated upstream
 
 def function_3():
     print('function_3')
 
 def function_5():
     print('function_5')
-=======
-
->>>>>>> Stashed changes
 
