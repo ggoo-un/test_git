@@ -23,6 +23,7 @@ print('insert_1')
 print('insert_1')
 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 
 <<<<<<< HEAD
 
@@ -37,6 +38,9 @@ def function_3():
 
 def function_2():
     print('function_2')
+=======
+
+>>>>>>> Stashed changes
 =======
 
 >>>>>>> Stashed changes
