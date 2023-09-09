@@ -26,3 +26,8 @@ print('insert_1')
 def function_3():
     print('function_3')
 
+<<<<<<< HEAD
+=======
+def function_5():
+    print('function_5')
+>>>>>>> f29976b6fa5af3538d9d7dbd81a02d4608bb64f3
