@@ -30,6 +30,7 @@ print('insert_1')
 print('insert5')
 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
 def function_3():
     print('function_3')
@@ -44,5 +45,11 @@ def function_2():
 =======
 
 >>>>>>> Stashed changes
+
+>>>>>>> Stashed changes
+=======
+
+def function_2():
+    print('function_2')
 
 >>>>>>> Stashed changes
