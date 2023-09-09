@@ -13,14 +13,16 @@ noiseL = 'noise_' + str(int(opt.test_noiseL))
 logs_n = 'WDENet_' + str(int(opt.test_noiseL)) + '.pth'
 
 
+def function():
+    print('function')
+
 print(os.path.join(opt.logdir, noiseL, logs_n))
 
 print('insert_1')
-print('insert_5')
+print('insert_1')
+print('insert_1')
 
-print('insert_2')
-print('insert_3')
-print('insert_4')
+
 
 print('insert5')
 
