@@ -29,3 +29,5 @@ def function_3():
 def function_5():
     print('function_5')
 
+def stash():
+    print('stash')
