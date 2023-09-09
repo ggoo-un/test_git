@@ -14,3 +14,5 @@ logs_n = 'WDENet_' + str(int(opt.test_noiseL)) + '.pth'
 
 
 print(os.path.join(opt.logdir, noiseL, logs_n))
+
+print('insert_1')
