@@ -23,4 +23,5 @@ print('insert_1')
 print('insert_1')
 
 
-
+def function_3():
+    print('function_3')
