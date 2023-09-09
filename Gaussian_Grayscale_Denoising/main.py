@@ -22,34 +22,7 @@ print('insert_1')
 print('insert_1')
 print('insert_1')
 
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
 
-<<<<<<< HEAD
-
-print('insert5')
-
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-=======
 def function_3():
     print('function_3')
->>>>>>> 9469d8c70ed0629e8e185d666aac799a3085af04
-=======
 
-def function_2():
-    print('function_2')
-=======
-
->>>>>>> Stashed changes
-=======
-
->>>>>>> Stashed changes
-
->>>>>>> Stashed changes
-=======
-
-def function_2():
-    print('function_2')
-
->>>>>>> Stashed changes
